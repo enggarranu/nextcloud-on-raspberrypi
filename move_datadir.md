@@ -30,7 +30,7 @@ Cari baris:
 
 Ubah jadi:
 
-```'datadirectory' => '/mnt/nextcloud-data',```
+```'datadirectory' => '/data/SSD/nextcloud-data/',```
 
 
 __Set permission untuk snap
