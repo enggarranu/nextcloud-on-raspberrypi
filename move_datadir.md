@@ -37,8 +37,8 @@ __Set permission untuk snap
 Karena snap jalan pakai user root + confinement, pastikan permission folder sesuai:
 __
 ```
-sudo chown -R root:root /mnt/nextcloud-data
-sudo chmod -R 750 /mnt/nextcloud-data
+sudo chown -R root:root /data/SSD/nextcloud-data/
+sudo chmod -R 750 /data/SSD/nextcloud-data/
 ```
 
 (kalau kamu punya user tertentu untuk data, bisa disesuaikan; tapi default snap pakai root).
